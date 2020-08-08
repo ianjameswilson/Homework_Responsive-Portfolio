@@ -1,9 +1,3 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
 html,
 body,
 .wrapper {
@@ -163,4 +157,11 @@ button[disabled] {
 
 label {
   font-weight: bold;
+}
+
+
+.gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
