@@ -2,25 +2,21 @@
     text-align: center;
     font-size: large;
   }
-
-  .gallery {
-    padding: 10px auto;
-    margin: 10px auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
   
-  .desc {
+  .desc, h3, .footer-logo, .footer-text {
     display: flex;
     justify-content: center;
-    align-items: center;
   }
 
   .container {
-    padding: 10px auto;
-    margin: 10px auto;
+    padding: 0px auto;
+    margin: 0px auto;
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+
+  h5 {
+    display: flex;
+    justify-content: left;
   }
