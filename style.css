@@ -61,7 +61,7 @@ header {
 .card-footer::before {
   content: " ";
   display: flex;
-  align-item: center;
+  align-items: center;
   width: 100%;
   background: #e7e9eb;
   height: 2px;
